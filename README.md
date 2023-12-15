@@ -1,2 +1,1 @@
-# crazyZSShuo.github.io
-my blogs
+Hello, Zs Blogs
